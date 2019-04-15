@@ -1,2 +1,3 @@
-# EmployeeAttrition
-Employee attrition
+# Employee Attrition
+![image.png](images/HRTalent.png)
+
